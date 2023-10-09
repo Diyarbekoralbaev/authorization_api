@@ -1,4 +1,4 @@
-# GitHub Portfolio API
+# Authorization API
 
 This repository contains a FastAPI based API for user registration and authentication.
 
@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```bash
 git clone https://github.com/your-username/github-portfolio-api.git
-cd github-portfolio-api
+cd github-portfolio-api```
 
 
 2. Install the required packages.
